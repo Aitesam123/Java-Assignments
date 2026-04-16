@@ -1,2 +1,2 @@
-# Java-Assignments
-Java Assignments Of Sir Badar
+# Java-Practice
+Java Practice Questions
